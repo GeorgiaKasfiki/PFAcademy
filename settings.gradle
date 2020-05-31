@@ -1,0 +1,2 @@
+rootProject.name='PFAcademy'
+include ':app'
